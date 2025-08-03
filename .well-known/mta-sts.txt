@@ -1,0 +1,4 @@
+version: STS1
+mode: enforce
+max_age: 86400
+mx: smtp.google.com
